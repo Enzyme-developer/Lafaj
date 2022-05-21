@@ -23,7 +23,6 @@ body{
 
 .navbar{
     display: flex;
-    overflow: hidden;
     flex-direction: row;
     position: fixed;
     width: 100%;
@@ -217,7 +216,6 @@ body{
 
 
 .hero-section{
-    overflow-x: hidden;
     padding: 2rem;
     margin-top: 3rem;
     display: flex;
@@ -293,7 +291,6 @@ main{
 }
 
 .main h1{
-    overflow-x: hidden;
     text-align: center;
 }
 
@@ -373,7 +370,6 @@ main{
 
 .works{
     padding: 2rem 2rem 1rem;
-    overflow-x: hidden;
     width: 100%;
 }
 .section-works{
@@ -414,7 +410,6 @@ main{
 /* contact form */
 
 .container{
-    overflow-x: hidden;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -497,7 +492,6 @@ footer{
     background-color: #ED9B40;
     display: flex;
     flex-direction: column;
-    overflow-x: hidden;
 }
 
 
